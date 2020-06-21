@@ -45,7 +45,7 @@ const Footer = () => {
                             color="White"
                             size="2x"
                         />
-                        <p><span>5 Floor</span> Mega Plaza, Oginga Odinga street</p>
+                        <p><span>5th Floor</span> Mega Plaza, Oginga Odinga street</p>
                     </div>
                     <div>
                     <FontAwesomeIcon
