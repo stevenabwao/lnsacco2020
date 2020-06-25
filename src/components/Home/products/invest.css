@@ -9,6 +9,9 @@
     padding: 1em;
     background-color: white;
 }
+.items:hover{
+    border: blue solid;;
+}
 .products{
     text-align: center;
 }
@@ -31,6 +34,10 @@
     float: right;
     border-color:blue;
     border-radius: 1em;
+}
+.btn:hover{
+    color: black;
+    background-color: lightblue;
 }
 .content{
     color: black;

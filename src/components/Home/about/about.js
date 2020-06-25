@@ -40,8 +40,8 @@ const AboutHome = () => {
                 <Link to='/about'><button className = 'btnslide'>Read More</button></Link>
                 
             </div>
-            <div className = 'more'>
-                <h2 className = "sub">Join Us</h2>
+            <div className = 'more'>"
+                <h2 className = "sub" style={{textAlign:"center"}}>To Become a Member??</h2>
                 <p className = "para">
                 <FontAwesomeIcon
                             icon={faAngleDoubleRight}
@@ -75,7 +75,7 @@ const AboutHome = () => {
                             size="2x"
                         /> Dial <span className = "dial">*533#</span> to check your Sacco savings account balance, mobile loan limit, recommend to a friend <br></br>
                 </p>
-                <span className = "start">Start the Greate Journey <FontAwesomeIcon
+                <span className = "start"> Begin the journey of economic Empowerment <FontAwesomeIcon
                             icon={faWalking}
                             color="blue"
                             size="2x"
